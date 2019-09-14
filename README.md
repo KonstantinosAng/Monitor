@@ -28,8 +28,8 @@ pip install urlib2
 
 <br>
 ***If you want to be sent to the same address you can put the _same address_ to from_address and to_address.***
-<br>
 
+<br>
 - Subject = Write the Subject you want the email to have.
 
 - Username = Write the username to be used as login at the gmail. For example for GMAIL the username is the same email address as the own you wrote at from_address.
