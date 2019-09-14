@@ -26,7 +26,9 @@ pip install urlib2
 
 - to_address = Write the **email address** you want the email to be **sent to** (example@gmail.com inside the quotes).
 
+
 ***If you want to be sent to the same address you can put the _same address_ to from_address and to_address.***
+
 
 - Subject = Write the Subject you want the email to have.
 
