@@ -12,11 +12,17 @@ import os
 # setup login credentials
 
 # Settings
+
 # from_address = Write the email address you want the email to be sent from ( example@gmail.com inside the quotes )
+
 # to_address = Write the email address you want the email to be sent to (example@gmail.com inside the quotes)
+
 # If you want to be sent to the same address you can put the same address to from_address and to_address
+
 # Subject = Write the Subject you want the email to have
+
 # Username = Write the username to be used as login at the gmail. For example for GMAIL the username is the same email address as the own you wrote at from_address 
+
 # Password = Write the password that you have to login at the email
 
 
