@@ -23,7 +23,7 @@ pip install urlib2
 
 ## Instructions for Settings
 
-- from_address = Write the **email address** you want the email to be **sent from** ( example@gmail.com inside the quotes )
+- from_address = Write the **email address** you want the email to be **sent from** (example@gmail.com inside the quotes)
 - to_address = Write the **email address** you want the email to be **sent to** (example@gmail.com inside the quotes)
 
 > If you want to be sent to the same address you can put the same address to from_address and to_address
