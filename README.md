@@ -4,10 +4,10 @@ Monitor the Temperature of Raspberry pi 3 and notify if temperature reaches high
 
 ## Required
 
-1 Python 3.6 or newer
-2 re package
-3 os package
-4 urllib or urllib2
+1. Python 3.6 or newer
+2. re package
+3. os package
+4. urllib or urllib2
 
 You can install python packages from the command line with
 
