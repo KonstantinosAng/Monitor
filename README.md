@@ -7,7 +7,8 @@ Monitor the Temperature of Raspberry pi 3 and notify via email, if temperature r
 1. Python 3.6 or newer
 2. re package
 3. os package
-4. urllib or urllib2
+4. smtplib package
+5. urllib or urllib2 package
 
 You can install python packages from the command line with:
 ```
