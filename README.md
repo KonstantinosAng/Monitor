@@ -1,6 +1,6 @@
 # Monitor
 
-Monitor the Temperature of Raspberry pi 3 and notify via email, if temperature reaches high values. Currently the high value is set to 65°C. You can use the crontab to execute the file every hour or every half an hour. See more [here](https://www.raspberrypi.org/documentation/linux/usage/cron.md)
+Monitor the Temperature of Raspberry pi 3 and notify via email, if temperature reaches high values. Currently the high value is set to 65°C. You can use the crontab to execute the file every hour or every half an hour. See more [here](https://www.raspberrypi.org/documentation/linux/usage/cron.md).
 
 ## Required
 
